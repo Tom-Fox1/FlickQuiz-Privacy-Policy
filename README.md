@@ -1,1 +1,2 @@
 # FlickQuiz-Privacy-Policy
+When you sign up to Flick Quiz you have to provide a username email and password. All your data is stored securely in a database and your email and password is never shown in the app to you or anyone else. Your email will not be used for anything other than authentication within the app and the only email we will ever send you is password reset emails when you request them. If you have any problems, questions or concerns please feel free to contact me at: flickquiz@gmail.com OR @FlickQuizApp
