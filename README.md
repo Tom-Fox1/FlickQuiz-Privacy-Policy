@@ -5,4 +5,6 @@ You can now also add profile pictures which are currently only displayed to peop
 
 I also plan on improving user profiles and sign up, to add an easier sign up, privacy settings and the abiltiy to edit your profile in a more understandable format.
 
+I would also like to add that although there is no charges for playing or anything you can spend money on in the game currently this does not mean, that i am making money from your data or that I plan to. at the moment I am making no money form the game and when the time comes I will do so in an ehtical manner.
+
 any questions: flickquiz@gmail.com
