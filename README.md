@@ -1,10 +1,16 @@
 # FlickQuiz-Privacy-Policy
-When you sign up to Flick Quiz you have to provide a username email and password. All your data is stored securely in a database and your email and password is never shown in the app to you or anyone else. Your email will not be used for anything other than authentication within the app and the only email we will ever send you is password reset emails when you request them. If you have any problems, questions or concerns please feel free to contact me at: flickquiz@gmail.com OR @FlickQuizApp
+TFApps has no interest in holding information about you for any other purpose than to give to a great experience when you are playing Flick Quiz.
 
-You can now also add profile pictures which are currently only displayed to people who follow you. however this is subject to change.
+Some user information is stored in our database to facilitate the games features:
 
-I also plan on improving user profiles and sign up, to add an easier sign up, privacy settings and the abiltiy to edit your profile in a more understandable format.
+- Username: user specified (not sensitive, not required to be personal)
+- Email address: currently only used for authentication (including password reset)
+- Profile picture: not required, shown in game to opponents and friends
+- Other data: social login (Facebook, twitter, google) different social logins provide different data please check each respective provider for further information, Flick Quiz only requests read access with all providers and never has or will have the aim of collecting data for any other reason than for providing a good game experience
+- Some ‘standard’ data is also collected for notifications, analytics and bug reporting (ask for more info if required)
 
-I would also like to add that although there is no charges for playing or anything you can spend money on in the game currently this does not mean, that i am making money from your data or that I plan to. at the moment I am making no money form the game and when the time comes I will do so in an ehtical manner.
+Most of this data is stored with google services but TFApps only stores this information to provide you with the best game experience. Please feel free to ask for more details on what services we use in Flick Quiz.
 
-any questions: flickquiz@gmail.com
+Any questions, concerns or suggested improvements to this document - feel free to contact: flickquiz@gmail.com
+
+This document is subject to change with new app versions/changes.
